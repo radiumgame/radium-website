@@ -1,0 +1,5 @@
+# Installing Radium
+To get started with installing, first download the [Radium Project Manager](https://github.com/radiumgame/radium-project-manager/releases/latest). After downloading and running the app, you are greeted with an engine selection/installation popup. You will have no engines downloaded by default, so get started by pressing the button called Install Engine. This will bring you to a new page. The dropdown allows you to select the version you wish to install. After selecting your version and pressing install engine, your app will begin to install your editor. This may take a moment, and the application may appear to freeze, but be patient. Congratulations on installing Radium!
+
+# Creating a Project
+To create a project start by selecting your installed editor if prompted. There should be a big button in the top right called Create Project. After following the instructions on the popup, you can create your own Radium project. It should appear in your recent projects list after creating. This new project can be opened with the Open button on the right. You have now opened and created your project! Congrats!

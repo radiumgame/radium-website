@@ -1,0 +1,5 @@
+# Welcome To Radium!
+Radium is a game engine built with Java and the <a href="https://lwjgl.org" target="_blank">LWJGL</a> tools. The documentation will go over how to use the editor and all the tools, along with the scripting system. Radium is currently a fairly small project, only being worked on by one person. I do want the engine to grow to have most of the features modern day game engines should have, and all the tools necessary for creating a game. The whole engine is free and open source, so all features can stay free forever, never any payments. This also allows games to be distributed for free, without payment to Radium, making it great for all games.
+
+# Notes
+The documentation is based off of the development branch in Github, meaning the documentation might not be different than your editor version. There soon will be an editor updater, so you can update your editor to the latest version.
