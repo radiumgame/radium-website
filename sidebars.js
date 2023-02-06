@@ -66,6 +66,16 @@ const sidebars = {
           items: [
             {
               type: 'category',
+              label: 'Animation',
+              items: [
+                {
+                  type: 'doc',
+                  id: 'scripting/components/Animation'
+                },
+              ],
+            },
+            {
+              type: 'category',
               label: 'Audio',
               items: [
                 {
